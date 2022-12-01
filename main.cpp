@@ -1,5 +1,5 @@
 #include <iostream>
-#include "primalibreria.h"
+#include "lib.h"
 
 int main(){
  int a, b;
