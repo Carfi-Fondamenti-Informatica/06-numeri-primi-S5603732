@@ -1,4 +1,4 @@
-#include "primalibreria.h"
+#include "lib.h"
 
 bool numeroprimo (int a, int b) {
     bool c=true, d=false;
